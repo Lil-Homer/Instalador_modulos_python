@@ -5,11 +5,11 @@ _Es un script que permite instalar y desinstalar módulos de python únicamente 
 ## Versiones de Python testeadas ⚙️
 
 * _Python 3.9.7 (Funciona correctamente)_
-* 
+
 ## Versiones de Windows testeadas ⚙️
 
 * _Windows 10 Home (Funciona correctamente)_
-* 
+
 ## Autores ✒️
 
 * [**Lil_Homer**](https://github.com/Lil-Homer) - *Programador principal* -
