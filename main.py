@@ -1,7 +1,7 @@
 from subprocess import check_output
 from os import system
 mensajes={"inicio":"INICIANDO EL GESTOR DE MODULOS PARA PYTHON",
-        "opcion":"Instalr/Desinstalar[I/D/B] --> ",
+        "opcion":"Instalr/Desinstalar/Buscar modulos instalados[I/D/B] --> ",
         "modulo":"Modulo --> "
           }
 
@@ -108,4 +108,4 @@ def p():
             print("BUSCAR UN MODULO")
             help('modules')
         i=input(mensajes["opcion"])
-p()
+
